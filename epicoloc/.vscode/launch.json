@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dart",
+            "program": "lib/login.dart",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--no-sound-null-safety"]
+        }
+    ]
+}
